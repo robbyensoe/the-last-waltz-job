@@ -1,8 +1,8 @@
 # The Last Waltz Job
 
-[![Competing on make.fun: Make the best heist game](https://make.fun/api/competitions/best-heist-game-20261122-0559/badge.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![Rank](https://make.fun/api/competitions/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![Reward](https://make.fun/api/competitions/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/robbyensoe/the-last-waltz-job/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/robbyensoe/the-last-waltz-job/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 **One night. One jewel. One last waltz.**
 
