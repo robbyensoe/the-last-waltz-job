@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Last Waltz Job — a heist game</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #07090d; height: 100%; }
+  body { display: flex; align-items: center; justify-content: center;
+         font-family: "Avenir Next", "Segoe UI", system-ui, sans-serif; }
+  #wrap { position: relative; width: 1280px; height: 720px; max-width: 100vw; }
+  canvas { display: block; width: 1280px; height: 720px; background: #0b0e13;
+           border-radius: 6px; box-shadow: 0 12px 60px rgba(0,0,0,.7); }
+  #sr { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="1280" height="720"></canvas>
+  <div id="sr" aria-live="polite"></div>
+</div>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>
